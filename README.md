@@ -1,1 +1,1 @@
-# gif-to-sprite-2
+# gif-to-sprite
